@@ -1,1 +1,1 @@
-chmod -R +X
+mkdir -m751 my_dir
