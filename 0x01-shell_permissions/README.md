@@ -1,1 +1,1 @@
-Adds execution permission
+chmod -R +X
