@@ -1,1 +1,1 @@
-sudo chown betty hello
+chmod 007 hello
