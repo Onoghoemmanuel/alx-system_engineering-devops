@@ -1,1 +1,1 @@
-chgrp school hello
+chown vincent:staff*
