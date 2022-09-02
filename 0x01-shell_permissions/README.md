@@ -1,1 +1,1 @@
-chown -h vincent:staff_hello 
+chown vincent:statff 0x01-shell/
