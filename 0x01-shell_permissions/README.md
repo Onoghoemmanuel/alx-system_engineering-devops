@@ -1,1 +1,1 @@
-chmod 354 hello
+Adds execution permission
