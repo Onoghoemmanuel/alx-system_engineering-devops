@@ -1,1 +1,1 @@
-Owner and group
+chown vincent:staff*
