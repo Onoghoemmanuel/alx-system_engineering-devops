@@ -1,1 +1,1 @@
-mkdir -m751 my_dir
+sudo chown betty hello
