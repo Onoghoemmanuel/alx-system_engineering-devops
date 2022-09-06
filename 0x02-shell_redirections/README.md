@@ -1,1 +1,1 @@
-script that display a confused smiley
+displat content of the file
