@@ -1,1 +1,1 @@
-display first five lines
+disolay tge third line of the file
