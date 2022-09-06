@@ -1,3 +1,4 @@
-#!/bin/bash
-Hello, World
-Write a script that prints “Hello, World
+/bin/bash
+echo "Hello, World"
+
+
