@@ -1,1 +1,1 @@
-Write a script that prints “Hello, World”
+display the contents of the file
