@@ -1,1 +1,1 @@
-a script that creates an alias
+The path to success
