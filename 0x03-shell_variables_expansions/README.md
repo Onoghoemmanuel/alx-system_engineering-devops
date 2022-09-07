@@ -1,1 +1,1 @@
-The path to success
+count the number of directories
