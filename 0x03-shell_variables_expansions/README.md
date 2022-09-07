@@ -1,1 +1,1 @@
-script that encodes and decodes
+a script that prints every other line
