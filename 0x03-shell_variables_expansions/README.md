@@ -1,1 +1,2 @@
-a script that prints every other line
+Im an instant star > README.md
+echo Im an instant star
