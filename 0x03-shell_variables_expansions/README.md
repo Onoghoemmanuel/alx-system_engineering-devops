@@ -1,2 +1,1 @@
-Im an instant star > README.md
-echo Im an instant star
+a script that creates an alias
